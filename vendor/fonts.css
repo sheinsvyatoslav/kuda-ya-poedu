@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'Aktifo';
+  src: url(./fonts/Aktifo-B-Bold.woff2) format('woff2'),
+       url(./fonts/Aktifo-B-Bold.woff) format('woff'),
+       url(./fonts/Aktifo-B-Bold.ttf) format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Aktifo';
+  src: url(./fonts/Aktifo-B-Book.woff2) format('woff2'),
+       url(./fonts/Aktifo-B-Book.woff) format('woff'),
+       url(./fonts/Aktifo-B-Book.ttf) format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
