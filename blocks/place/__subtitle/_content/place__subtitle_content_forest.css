@@ -1,0 +1,8 @@
+.place__subtitle_content_forest {
+  margin: 190px 0 24px;
+}
+
+.place__subtitle_content_forest:last-child {
+  margin-top: 0;
+  margin-bottom: 0;
+}

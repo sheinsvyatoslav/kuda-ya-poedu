@@ -1,8 +1,8 @@
 .place__subtitle {
-  max-width: 353px;
-  margin: 0 0 30px;
+  font-size: 13px;
+  line-height: 1.55;
+  max-width: 372px;
+  
 }
 
-.place__subtitle:last-child {
-  margin-bottom: 0;
-}
+

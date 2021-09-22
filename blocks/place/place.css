@@ -1,5 +1,10 @@
 .place {
   width: 100%;
   display: flex;
-  margin-bottom: 50px;
+  
+}
+
+.place:nth-child(2n) {
+  flex-direction: row-reverse;
+  justify-content: space-between;
 }
