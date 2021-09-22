@@ -4,6 +4,11 @@
 @import url(./../blocks/root/root.css);
 
 @import url(./../blocks/header/header.css);
+@import url(./../blocks/header/__nav/header__nav.css);
+@import url(./../blocks/header/__menu/header__menu.css);
+@import url(./../blocks/header/__menu-cell/header__menu-cell.css);
+@import url(./../blocks/header/__menu-link/header__menu-link.css);
+
 
 @import url(./../blocks/intro/intro.css);
 @import url(./../blocks/intro/__columns/intro__columns.css);
@@ -15,4 +20,11 @@
 
 @import url(./../blocks/places/places.css);
 
+@import url(./../blocks/people/people.css);
+@import url(./../blocks/people/__name/people__name.css);
+@import url(./../blocks/people/__title/people__title.css);
+@import url(./../blocks/quotes/quotes.css);
+@import url(./../blocks/quotes/__item/quotes__item.css);
+@import url(./../blocks/quotes/__author/quotes__author.css);
+@import url(./../blocks/quotes/__text/quotes__text.css);
 
