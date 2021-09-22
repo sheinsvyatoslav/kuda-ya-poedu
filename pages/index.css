@@ -19,6 +19,16 @@
 
 
 @import url(./../blocks/places/places.css);
+@import url(./../blocks/places/__list/places__list.css);
+@import url(./../blocks/place/place.css);
+@import url(./../blocks/place/__img-wrapper/place__img-wrapper.css);
+@import url(./../blocks/place/__img/place__img.css);
+@import url(./../blocks/place/__description/place__description.css);
+@import url(./../blocks/place/__title/place__title.css);
+@import url(./../blocks/place/__subtitle/place__subtitle.css);
+@import url(./../blocks/place/__subtitle/_content/place__subtitle_content_forest.css);
+@import url(./../blocks/place/__subtitle/_content/place__subtitle_content_mountain.css);
+@import url(./../blocks/place/__subtitle/_content/place__subtitle_content_sea.css);
 
 @import url(./../blocks/people/people.css);
 @import url(./../blocks/people/__name/people__name.css);
