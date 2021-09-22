@@ -6,6 +6,12 @@
 @import url(./../blocks/header/header.css);
 
 @import url(./../blocks/intro/intro.css);
+@import url(./../blocks/intro/__columns/intro__columns.css);
+@import url(./../blocks/intro/__description/intro__description.css);
+@import url(./../blocks/intro/__title/intro__title.css);
+@import url(./../blocks/intro/__subtitle/intro__subtitle.css);
+@import url(./../blocks/intro/__img/intro__img.css);
+
 
 @import url(./../blocks/places/places.css);
 
