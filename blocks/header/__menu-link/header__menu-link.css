@@ -1,0 +1,10 @@
+.header__menu-link {
+  text-decoration: none;
+  color: black;
+  font-size: 16px;
+  transition: opacity 0.2s ease;
+}
+
+.header__menu-link:hover {
+  opacity: 0.4;
+}

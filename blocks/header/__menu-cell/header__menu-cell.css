@@ -1,0 +1,8 @@
+.header__menu-cell {
+  margin-right: 34px;
+}
+
+.header__menu-cell:last-child {
+  justify-self: end;
+  margin-right: 0;
+}
