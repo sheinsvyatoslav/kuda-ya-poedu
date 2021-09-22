@@ -1,0 +1,11 @@
+.form__item-button {
+  background-color: black;
+  color: white;
+  border: 0;
+  position: absolute;
+  right: 0;
+  width: 200px;
+  height: 32px;
+  font-size: 14px;
+  line-height: 100%;
+}
