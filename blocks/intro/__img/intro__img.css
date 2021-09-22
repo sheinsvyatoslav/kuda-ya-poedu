@@ -1,0 +1,5 @@
+.intro__img {
+  min-width: 383px;
+  height: 383px;
+  padding-right: calc(100%*(96/1231));
+}

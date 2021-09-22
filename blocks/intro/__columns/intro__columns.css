@@ -1,0 +1,5 @@
+.intro__columns {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
