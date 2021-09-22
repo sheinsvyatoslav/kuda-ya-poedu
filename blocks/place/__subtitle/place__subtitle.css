@@ -1,0 +1,8 @@
+.place__subtitle {
+  max-width: 353px;
+  margin: 0 0 30px;
+}
+
+.place__subtitle:last-child {
+  margin-bottom: 0;
+}

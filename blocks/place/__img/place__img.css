@@ -1,5 +1,7 @@
 .place__img {
+  max-height: 534px;
   width: 100%;
-  object-fit: contain;
-  
+  object-fit: cover;
+  object-position: center;
+  display: block;
 }

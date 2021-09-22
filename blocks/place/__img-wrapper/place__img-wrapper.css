@@ -1,4 +1,4 @@
 .place__img-wrapper {
-  object-fit: contain;
+  overflow: hidden;
   width: 50%;
 }
