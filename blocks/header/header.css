@@ -1,4 +1,5 @@
 .header {
-  padding: 56px 74px 0;
-  margin-bottom: 95px;
+  max-width: 1231px;
+  padding: 56px 0 0;
+  margin: 0 auto 95px;
 }
