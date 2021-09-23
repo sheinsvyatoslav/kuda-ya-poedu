@@ -38,3 +38,17 @@
 @import url(./../blocks/quotes/__author/quotes__author.css);
 @import url(./../blocks/quotes/__text/quotes__text.css);
 
+
+
+@import url(./../blocks/intention/intention.css);
+@import url(./../blocks/intention/__form-container/intention__form-container.css);
+@import url(./../blocks/intention/__title/intention__title.css);
+@import url(./../blocks/intention/__image/intention__image.css);
+
+@import url(./../blocks/form/form.css);
+@import url(./../blocks/form/__field/form__field.css);
+@import url(./../blocks/form/__item/form__item.css);
+@import url(./../blocks/form/__item/_size/form__item_size_s.css);
+@import url(./../blocks/form/__item/_size/form__item_size_m.css);
+@import url(./../blocks/form/__submit/form__submit.css);
+
