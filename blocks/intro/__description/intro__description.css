@@ -1,4 +1,10 @@
 .intro__description {
   max-width: 555px;
-  padding-right: 50px;
+  padding-right: 80px;
+}
+
+@media screen and (max-width: 747px) {
+  .intro__description {
+    padding: 0;
+  }
 }

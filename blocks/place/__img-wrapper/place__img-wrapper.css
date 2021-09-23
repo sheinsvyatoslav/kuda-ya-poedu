@@ -1,4 +1,13 @@
 .place__img-wrapper {
   overflow: hidden;
-  width: 50%;
+  min-width: 50%;
+  max-width: 50%;
+}
+
+@media screen and (max-width: 520px) {
+  .place__img-wrapper {
+    min-width: 90%;
+    max-width: 355px;
+    margin: 0 auto;
+  }
 }

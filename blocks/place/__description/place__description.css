@@ -2,3 +2,29 @@
   min-height: 533px;
   padding-left: 74px;
 }
+
+@media screen and (max-width: 1023px) and (min-width: 748px) {
+  .place__description {
+    padding-left: 0;
+    margin: 0 auto;
+  }
+}
+
+@media screen and (max-width: 820px) {
+  .place__description {
+    min-height: 433px;
+  }
+}
+
+@media screen and (max-width: 747px) {
+  .place__description {
+    padding-left: 0;
+  }
+}
+
+@media screen and (max-width: 520px) {
+  .place__description {
+    padding-left: 0;
+    min-height: fit-content;
+  }
+}

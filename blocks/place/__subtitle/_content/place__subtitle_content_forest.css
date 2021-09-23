@@ -4,5 +4,26 @@
 
 .place__subtitle_content_forest:last-child {
   margin-top: 0;
-  margin-bottom: 0;
+  
+}
+
+@media screen and (max-width: 1023px) and (min-width: 768px) {
+  .place__subtitle_content_forest {
+    margin: 120px auto 20px;
+  }
+
+}
+
+@media screen and (max-width: 767px) {
+  .place__subtitle_content_forest {
+    margin: 60px auto 20px;
+  }
+
+}
+
+@media screen and (max-width: 520px) {
+  .place__subtitle_content_forest {
+    margin: 20px auto 20px;
+  }
+
 }
