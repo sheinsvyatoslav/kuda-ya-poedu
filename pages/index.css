@@ -15,6 +15,7 @@
 @import url(./../blocks/intro/__description/intro__description.css);
 @import url(./../blocks/intro/__title/intro__title.css);
 @import url(./../blocks/intro/__subtitle/intro__subtitle.css);
+@import url(./../blocks/intro/__img-wrapper/intro__img-wrapper.css);
 @import url(./../blocks/intro/__img/intro__img.css);
 
 

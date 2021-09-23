@@ -1,8 +1,12 @@
 .place__subtitle {
   font-size: 13px;
-  line-height: 1.55;
+  line-height: 1.5;
   max-width: 372px;
-  
 }
 
+@media screen and (max-width: 820px) {
+  .place__subtitle {
+    width: 80%;
+  }
+}
 

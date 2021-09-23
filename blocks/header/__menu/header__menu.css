@@ -5,3 +5,9 @@
   display: grid;
   grid-template-columns: repeat(3, min-content) auto;
 }
+
+@media screen and (max-width: 460px) {
+  .header__menu {
+    grid-template-columns: repeat(3, max-content);
+  }
+}

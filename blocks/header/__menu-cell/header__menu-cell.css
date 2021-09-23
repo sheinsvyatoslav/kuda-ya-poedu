@@ -6,3 +6,10 @@
   justify-self: end;
   margin-right: 0;
 }
+
+@media screen and (max-width: 460px) {
+  .header__menu-cell:last-child {
+    justify-self: unset;
+    margin-top: 20px;
+  }
+}
