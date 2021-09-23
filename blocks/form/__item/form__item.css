@@ -3,11 +3,11 @@
   display: block;
   margin: 0 0 20px;
   width: calc(100% - 14px);
-  padding: 5px 0 5px 14px;
+  padding: 8px;
+  resize: none;
 }
 
 .form__item::placeholder {
   color: black;
   font-size: 14px;
-  
 }
