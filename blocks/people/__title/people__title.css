@@ -5,3 +5,10 @@
   line-height: 135%;
   font-weight: 900;
 }
+
+@media screen and (max-width: 972px) {
+  .people__title {
+    justify-content: space-around;
+    margin-bottom: 20px;
+  }
+}

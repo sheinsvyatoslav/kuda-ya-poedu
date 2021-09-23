@@ -3,7 +3,7 @@
   padding-right: 80px;
 }
 
-@media screen and (max-width: 747px) and (min-width: 320px) {
+@media screen and (max-width: 747px) {
   .intro__description {
     padding: 0;
   }

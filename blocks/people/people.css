@@ -2,3 +2,21 @@
   max-width: calc(100% - (2 * 69px));
   margin: 127px auto 120px;
 }
+
+@media screen and (max-width: 1023px) and (min-width: 748px) {
+  .people {
+    max-width: 886px;
+    width: calc(100% - (50px*2));
+    margin-bottom: min(calc(100% * (50/749)), 120px);
+    margin-top: min(calc(100% * (50/749)), 127px);;
+  }
+}
+
+@media screen and (max-width: 747px) {
+  .people {
+    max-width: 647px;
+    width: calc(100% - (25px*2));
+    margin-bottom: min(calc(100% * (40/320)), 50px);
+    margin-top: min(calc(100% * (40/320)), 50px);
+  }
+}

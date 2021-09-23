@@ -13,3 +13,14 @@
     padding-right: 55px;
   }
 }
+
+@media screen and (max-width: 670px) {
+  .quotes__item {
+    padding-right: 20px;
+    margin-top: 25px;
+  }
+
+  .quotes__item:last-child {
+    padding-right: 20px;
+  }
+}
