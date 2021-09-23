@@ -1,0 +1,6 @@
+.video {
+  width: 100%;
+  min-height: 625px;
+  background-image: url(../../images/video/video.jpg);
+  background-position: center;
+}
