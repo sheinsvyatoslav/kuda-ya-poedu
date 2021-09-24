@@ -4,3 +4,21 @@
   font-weight: 900;
   margin: auto;
 }
+
+@media screen and (max-width: 1023px) {
+  .footer__copyright {
+    font-size: 28px;
+  }
+}
+
+@media screen and (max-width: 748px) {
+  .footer__copyright {
+    font-size: 24px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .footer__copyright {
+    font-size: 14px;
+  }
+}
