@@ -5,3 +5,16 @@
   line-height: 1.35;
   font-weight: 900;
 }
+
+@media screen and (max-width: 1190px) {
+  .intention__title {
+    margin: 20px 0 30px;
+  }
+}
+
+@media screen and (max-width: 747px) {
+  .intention__title {
+    font-size: 28px;
+    max-width: none;
+  }
+}

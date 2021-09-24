@@ -1,3 +1,9 @@
 .intention__image {
   width: 50%;
 }
+
+@media screen and (max-width: 747px) {
+  .intention__image {
+    display: none;
+  }
+}
