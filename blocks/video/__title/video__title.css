@@ -10,3 +10,25 @@
   top: 125px;
   left: 90px;
 }
+
+@media screen and (max-width: 1024px) {
+  .video__title {
+    font-size: 32px;
+    top: 100px;
+    left: 70px;
+  }
+}
+
+@media screen and (max-width: 748px) {
+  .video__title {
+    font-size: 26px;
+    top: 60px;
+    left: 50px;
+  }
+}
+
+@media screen and (max-width: 530px) {
+  .video__title {
+    display: none;
+  }
+}
