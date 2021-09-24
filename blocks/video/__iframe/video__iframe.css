@@ -1,0 +1,7 @@
+.video__iframe {
+  border: 0;
+  width: 100%;
+  height: calc(100vw / (1280/624));
+  max-height: 626px;
+  z-index: 1;
+}
