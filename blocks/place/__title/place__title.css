@@ -1,6 +1,7 @@
 .place__title {
   margin: 62px 0 0;
   font-size: 32px;
+  text-rendering: optimizeLegibility;
 }
 
 @media screen and (max-width: 820px) {
