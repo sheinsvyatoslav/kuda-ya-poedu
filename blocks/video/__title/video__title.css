@@ -9,6 +9,7 @@
   position: absolute;
   top: 125px;
   left: 90px;
+  text-rendering: optimizeLegibility;
 }
 
 @media screen and (max-width: 1024px) {

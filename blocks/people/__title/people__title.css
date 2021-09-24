@@ -4,6 +4,7 @@
   font-size: 32px;
   line-height: 135%;
   font-weight: 900;
+  text-rendering: optimizeLegibility;
 }
 
 @media screen and (max-width: 972px) {

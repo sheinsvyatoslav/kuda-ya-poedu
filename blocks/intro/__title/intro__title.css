@@ -3,6 +3,7 @@
   font-size: 34px;
   line-height: 1.2;
   margin: 0;
+  text-rendering: optimizeLegibility;
 }
 
 @media screen and (max-width: 1023px) and (min-width: 748px) {
