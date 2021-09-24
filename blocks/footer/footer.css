@@ -2,6 +2,7 @@
   width: 100%;
   background-color: #fecea9;
   height: calc(100vw / (1280/618));
+  max-height: 619px;
   display: flex;
   margin: 0;
 }

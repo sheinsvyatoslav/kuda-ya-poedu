@@ -1,6 +1,6 @@
 .people {
   max-width: calc(100% - (2 * 69px));
-  margin: 127px auto 120px;
+  margin: 127px auto 126px;
 }
 
 @media screen and (max-width: 1023px) and (min-width: 748px) {
