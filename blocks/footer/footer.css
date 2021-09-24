@@ -1,7 +1,7 @@
 .footer {
   width: 100%;
   background-color: #fecea9;
-  min-height: 620px;
+  height: calc(100vw / (1280/618));
   display: flex;
   margin: 0;
 }
