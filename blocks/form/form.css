@@ -2,3 +2,11 @@
   margin: 0;
   max-width: 355px;
 }
+
+@media screen and (max-width: 747px) {
+  .form {
+    max-width: none;
+    width: 60%;
+    min-width: 300px;
+  }
+}
